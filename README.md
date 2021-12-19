@@ -1,4 +1,4 @@
-Game made during game jame PolskiGamedev.pl Game Jam
+Game made during PolskiGamedev.pl Game Jam
 
 ## Here is the official link for my team game: 
 * https://gamejam.polskigamedev.pl/gry/last-witch/
